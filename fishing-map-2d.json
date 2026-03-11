@@ -1,1 +1,15 @@
-{"positions":[{"x":1.0,"y":2.0},{"x":3.0,"y":4.0}],"dataStructures":{"exampleStruct":{"field1":"value1","field2":100}}}
+{
+  "fishingSpots": [
+    { "name": "Spot A", "position": { "x": 10.0, "y": 15.0 } },
+    { "name": "Spot B", "position": { "x": 20.0, "y": 25.0 } }
+  ],
+  "rodStores": [
+    { "name": "Rod Store A", "position": { "x": 30.0, "y": 35.0 } }
+  ],
+  "baitStores": [
+    { "name": "Bait Store A", "position": { "x": 40.0, "y": 45.0 } }
+  ],
+  "sellPoints": [
+    { "name": "Sell Point A", "position": { "x": 50.0, "y": 55.0 } }
+  ]
+}
